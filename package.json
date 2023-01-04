@@ -8,7 +8,7 @@
     "url": "git+https://github.com/sdrubolo/joi-to-openapi.git"
   },
   "engines": {
-    "node": ">=18.12.1"
+    "node": ">=14.16.1"
   },
   "keywords": [
     "joi",
